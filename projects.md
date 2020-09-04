@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Projects
+nav_order: 2
+has_children: true
 ---
 
-This is where my projects live. 
+This is where my projects live.
