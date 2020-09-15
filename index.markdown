@@ -11,4 +11,4 @@ layout: home
 
 I create documentation and explain things in plain language.
 
-Take a look at some of my projects.
+Take a look at some of my [projects](http://www.caseystull.com/projects.html).
