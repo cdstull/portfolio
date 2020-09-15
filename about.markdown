@@ -5,7 +5,7 @@ permalink: /about/
 nav_order: 1
 ---
 
-### About me
+## About me
 
 ---
 
@@ -16,7 +16,7 @@ I create software documentation. I use *Docs-as-Code* practices and choose tools
 I used to do communications for a medical non-transplant tissue bank. Before that, I taught philosophy at the University of Oklahoma. See my [LinkedIn profile](www.linkedin.com/in/casey-stull) for more.
 
 
-#### Why technical communications?  
+### Why technical communications?  
 
 ---
 
