@@ -5,9 +5,20 @@ permalink: /about/
 nav_order: 1
 ---
 
-### I'm a technical communicator.  
+### Why technical communications?  
 
+---
 
-I create documentation and explain things in plain language.
+Curiosity
 
-Take a look at some of my projects.
+---
+
+Teaching
+
+---
+
+Writing
+
+---
+
+Tech
