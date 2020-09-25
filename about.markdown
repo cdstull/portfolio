@@ -29,4 +29,4 @@ My introduction into technical communications was a happy accident. A spontaneou
 
 Since then, the choice to pursue technical communications has been easy. Technical communications combines learning new subjects with using hard-gained skills in communications and writing to teach and inform.
 
-My love for technical communications is fueled by curiosity, teaching, writing, and tech. I'm interested in APIs, cloud computing, information architecture, and usability.
+My love for technical communications is fueled by curiosity, teaching, writing, and tech. I'm interested in APIs, cloud computing, information architecture, privacy/security, and usability.
