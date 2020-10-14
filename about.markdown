@@ -9,7 +9,7 @@ nav_order: 1
 
 ---
 
-I'm a technical communicator living in Zurich, Switzerland.
+I'm a technical communicator living in Zurich, Switzerland. I make sense out of messes. I organize information so it makes sense. I explain complex things in plain language. 
 
 I create software documentation. Great software is not complete without great documentation. This is why docs are an important contributor to the DevOps lifecycle, and why they should come about from the same processes generating great code. As such, I use [*docs-as-code*](https://www.writethedocs.org/guide/docs-as-code/) practices. I'm tool-agnostic; I choose tools to fit each job.
 
